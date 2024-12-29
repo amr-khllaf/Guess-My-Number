@@ -1,0 +1,40 @@
+@media only screen and (max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .btn {
+    font-size: 1rem;
+  }
+  .between {
+    font-size: 12px;
+    right: 1rem;
+    top: 2.5rem;
+    /* background-color: aqua; */
+  }
+  .again {
+    left: 1rem;
+    padding: 1.5rem 2rem;
+  }
+  p {
+    font-size: 1.1rem;
+    white-space: nowrap;
+  }
+  .number {
+    font-size: 3rem;
+    width: 13rem;
+  }
+
+  .left {
+    width: 35%;
+  }
+  .right {
+    width: 45%;
+  }
+  .guess {
+    border: 2px solid #eee;
+
+    font-size: 3rem;
+    padding: 2.5rem;
+    width: 15rem;
+  }
+}
